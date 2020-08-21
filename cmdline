@@ -1,0 +1,2 @@
+make ARCH=mips_24kc CC=~/Padavan_Toolchain3.4.x_EXTRA/bin/mipsel-linux-uclibc-gcc CFLAGS=-I/home/starx/Padavan_Toolchain3.4.x_EXTRA/include LDFLAGS="-L/home/starx/Padavan_Toolchain3.4.x_EXTRA/lib -static" -j6
+
